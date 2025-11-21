@@ -5,8 +5,8 @@ export const Tracks: Track[] = [
     id: "1",
     title: "24",
     artist: "Xcho",
-    cover: "./src/assets/cover-songs/24-cover.png",
-    url: "./src/assets/songs/24-xcho.mp3",
+    cover: "../src/assets/cover-songs/24-cover.png",
+    url: "../src/assets/songs/24-xcho.mp3",
     favorite: false,
   },
   {
