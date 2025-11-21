@@ -6,7 +6,7 @@ export const Tracks: Track[] = [
     title: "24",
     artist: "Xcho",
     cover: "./assets/cover-songs/24-cover.png",
-    url: ".assets/songs/24-xcho.mp3",
+    url: "./assets/songs/24-xcho.mp3",
     favorite: false,
   },
   {
