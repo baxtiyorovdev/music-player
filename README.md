@@ -111,11 +111,11 @@ Tell me which option you prefer and I'll add it.
 
 Below are example screenshots you can include in the project README. Drop your images into `public/screenshots/` with the names shown and they will render here.
 
-![Player view](/screenshots/demo-1.png)
+![Player view](/public/screenshots/demo-1.png)
 
-![Add Track modal](/screenshots/demo-2.png)
+![Add Track modal](/public/screenshots/demo-2.png)
 
-![Library + Player](/screenshots/demo-3.png)
+![Library + Player](/public/screenshots/demo-3.png)
 
 Notes:
 - Place your actual images under `public/screenshots/` (e.g. `public/screenshots/demo-1.png`).
