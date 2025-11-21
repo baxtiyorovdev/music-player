@@ -1,4 +1,3 @@
-import React from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import { Search, X, Heart } from 'lucide-react';
 import type { Track } from '../types';
